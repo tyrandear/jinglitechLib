@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://203.195.129.233/ios/iBt.png</string>
+					<string>http://203.195.129.233/ios/myj.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://203.195.129.233/ios/iBt.png</string>
+					<string>http://203.195.129.233/ios/myj.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>未来美</string>
+				<string>买眼镜</string>
 			</dict>
 		</dict>
 	</array>
