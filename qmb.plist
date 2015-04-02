@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://203.195.129.233/ios/qmb.ipa</string>
+					<string>http://123.57.228.33/qmb.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://203.195.129.233/ios/qmb.png</string>
+					<string>http://123.57.228.33/qmb.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://203.195.129.233/ios/qmb.png</string>
+					<string>http://123.57.228.33/qmb.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
