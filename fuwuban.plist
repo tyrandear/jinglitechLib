@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://211.99.254.114:81/QMB/AppPublish/fuwuban.ipa</string>
+					<string>http://qmb888.oss-cn-beijing.aliyuncs.com/Test/IosPublish/fuwuban.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://211.99.254.114:81/QMB/AppPublish/qmb.png</string>
+					<string>http://qmb888.oss-cn-beijing.aliyuncs.com/Test/IosPublish/qmb.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://211.99.254.114:81/QMB/AppPublish/qmb.png</string>
+					<string>http://qmb888.oss-cn-beijing.aliyuncs.com/Test/IosPublish/qmb.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
